@@ -196,7 +196,7 @@ h1 {
 
 .main_pic {
   max-height: auto;
-  max-width: 100%;
+  width: 100%;
 }
 
 .second_screen {
