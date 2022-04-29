@@ -146,7 +146,7 @@ body {
   display: none;
   visibility: hidden;
   opacity: 0;
-  max-height: auto;
+  height: auto;
   width:100%
 }
 
