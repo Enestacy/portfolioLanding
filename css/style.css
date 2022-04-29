@@ -147,6 +147,7 @@ body {
   visibility: hidden;
   opacity: 0;
   max-height: auto;
+  width:100%
 }
 
 h1 {
